@@ -12,6 +12,14 @@
 A hacker can exploit the mentioned versions if running on a public IP. 
 Please use this with care. 
 
+**Exploits and Payloads**
+
+You would need Kali linux or [Exploid DB to be install.](https://www.exploit-db.com/)
+
+```searchsploit weblogic```
+
+
+
 ## How to use :
 You Will need nuclei !
 
