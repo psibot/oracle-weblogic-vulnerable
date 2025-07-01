@@ -30,6 +30,8 @@ To scan al list you would need the file with ip:port
 
 ```nuclei -t weblogic-cve-2019-2725.yaml -l file.txt```
 
+## CVE Checks are 
+
 Checks for:
 
 ```weblogic-cve-2019-2725.yaml - Oracle WebLogic Server wls9-async XML Deserialization RCE (CVE-2019-2725)```
