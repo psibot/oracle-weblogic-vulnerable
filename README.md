@@ -58,3 +58,10 @@ Checks for:
 ```weblogic-cve-2021-2109.yaml - Oracle WebLogic Server RCE (CVE-2021-2109)```
 
 ```weblogic-cve-2022-21371.yaml - Oracle WebLogic Server RCE (CVE-2022-21371)```
+
+
+## POC
+
+![POC](https://imgur.com/eeQmXQ1.png)
+(https://imgur.com/6Mg2mJu.png)
+(https://imgur.com/xpZux5w.png)
