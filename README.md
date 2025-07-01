@@ -7,7 +7,10 @@
   - WebLogic Server 12.2.1.4.0
   - WebLogic Server 14.1.1.0.0
 
+**!Oudated versions are metioned are dangerous!**
 
+A hacker can exploit the mentioned versions if running on a public IP. 
+Please use this with care. 
 
 ## How to use :
 You Will need nuclei !
