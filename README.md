@@ -1,2 +1,3 @@
-# oracle-weblogic-vulnerable-
-# oracle-weblogic-vulnerable
+# Oracle Weblogic CVE Check 
+
+
