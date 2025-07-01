@@ -16,6 +16,20 @@ https://github.com/projectdiscovery/nuclei
 
 Check local nuclei install and verify template
 
+```nuclei -t weblogic-cve-2019-2725.yaml -vv```
+
+Out shows:
+
+```[CVE-2019-2725] Oracle WebLogic Server wls9-async XML Deserialization RCE (CVE-2019-2725) (@psibot) [critical]```
+
+To Use any of the templates with single target: 
+
+```nuclei -t weblogic-cve-2019-2725.yaml -u https://*.*.*.*:7001```
+
+To scan al list you would need the file with ip:port 
+
+```nuclei -t weblogic-cve-2019-2725.yaml -l file.txt```
+
 Checks for:
 
 ```weblogic-cve-2019-2725.yaml - Oracle WebLogic Server wls9-async XML Deserialization RCE (CVE-2019-2725)```
